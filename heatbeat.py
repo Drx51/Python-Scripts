@@ -1,7 +1,7 @@
 # Filename: HeartbeatClient.py
 
 """Heartbeat client, sends out an UDP packet periodically"""
-
+#!/usr/bin/python
 import socket, time
 
 SERVER_IP = '127.0.0.1'; SERVER_PORT = 43278; BEAT_PERIOD = 5
