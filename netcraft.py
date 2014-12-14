@@ -6,7 +6,7 @@ import sys
 import string
 
 def help():
-print "[netcraftdns v1.0] - by neuro [0x0lab.org]"
+print "[netcraftdns v1.0] - by der_joker "
 print "\nUsage: python netcraftdns.py <domain_name> \n"
 sys.exit()
 
