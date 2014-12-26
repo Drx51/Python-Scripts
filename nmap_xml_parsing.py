@@ -64,7 +64,7 @@ def parse_nmap(doc):
             print(username.strip())
  
 def usage():
-    print("""Usage: ./pwnmaps.py [OPTIONS] results.xml
+    print("""Usage: ./nmap_parsing.py [OPTIONS] results.xml
  
 The input file should be generated using nmap with a similar syntax:
 nmap --script=smb-enum-users -oX results.xml 127.0.0.17
