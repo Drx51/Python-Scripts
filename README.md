@@ -3,7 +3,7 @@ Tools in Python  language
 
 In this section you will find all my python scripts.
 
-These are made during pentest and could fit at many situations.
+These are made during pentest and could fit at many situations. I will add other scripts as work proceeds
 
 We could find : 
 
@@ -26,4 +26,4 @@ We could find :
 -Wifi pentest with spoofing a Mac Address
  
                 
-I will add other scripts as work proceeds
+
