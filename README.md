@@ -11,7 +11,7 @@ We could find :
               
 -Ftp
               
--Brute force
+-Brute force. A simple dict is in the repository, but a big one is necessary to perform a real Brute forcing
               
 -Hash generator
                 
