@@ -1,5 +1,6 @@
 #!/usr/env python
 #encrypt.py
+# You need to install a Crypto library for python to use this script
 
 import os
 from Crypto.Cipher import AES
