@@ -24,6 +24,8 @@ We could find :
 -Do some Recon( OSTIN)
                
 -Wifi pentest with spoofing a Mac Address
+
+-Somme private exploits
  
                 
 
