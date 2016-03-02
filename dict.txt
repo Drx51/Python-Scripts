@@ -1,0 +1,10 @@
+12345
+password
+welcome
+admin
+login
+pokemon
+ubuntu
+root
+toor
+
