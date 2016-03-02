@@ -15,7 +15,7 @@ We could find :
               
 -Hash generator
                 
--Check some flaw
+-Check some flaws
                
 -Many stuff for Vmware tools
                
